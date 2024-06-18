@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Lista
+comment1.params=
+comment1.target=boolean\ esVacia()
+comment2.params=dato
+comment2.target=void\ insertar(java.lang.Object)
+comment3.params=pos
+comment3.target=java.lang.Object\ eliminar(int)
+comment4.params=pos
+comment4.target=java.lang.Object\ acceder(int)
+comment5.params=desde\ hacia
+comment5.target=void\ swap(int,\ int)
+comment6.params=
+comment6.target=void\ imprimir()
+numComments=7
